@@ -13,4 +13,5 @@ int main()
         a = 0.5 * (b + c / b);
     }
     cout << a;
+    return 0;
 }
