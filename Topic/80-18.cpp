@@ -3,7 +3,7 @@ using namespace std;
 int FACTORIAL(int x)
 {
     int result = 1;
-    for (x; x != 0; x--)
+    for (; x != 0; x--)
     {
         result = result * x;
     }
