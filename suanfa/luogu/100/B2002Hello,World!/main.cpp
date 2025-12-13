@@ -2,7 +2,6 @@
 using namespace std;
 int main()
 {
-    int i=0,b=10;
-    if(i) cout<<"yes";
+    cout << "Hello,World!";
     return 0;
 }
