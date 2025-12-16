@@ -1,3 +1,4 @@
+//666我发现自己原来这么聪明；每次比赛题目都能看错
 #include <bits/stdc++.h>
 using namespace std;
 int ef(int num, int *a, int n)
